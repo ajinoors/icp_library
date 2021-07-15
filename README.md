@@ -22,4 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# icp_library
+# icp_library Page
+'/' adalah halaman login  
+'/dashboard' adalah halaman utama (book list)  
+'/profile/ adalah halaman profile
