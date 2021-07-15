@@ -1,0 +1,12 @@
+.btn-action {
+    padding: 0px!important;
+    background-color: transparent!important;
+    outline: none!important;
+    border: transparent!important;
+}
+
+.btn-action:hover {
+    outline: none!important;
+    background-color: transparent!important;
+    border: transparent!important;
+}
